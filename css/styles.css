@@ -1,0 +1,52 @@
+body {
+  background-color: #EAF6F6;
+}
+
+h1 {
+  color: #39A2DB;
+}
+
+h3 {
+  color: #66BFBF;
+}
+
+hr {
+  background-color: inherit;
+  border-style: dotted none none;
+  width: 5%;
+  border-width:5px;
+  border-color: grey;
+}
+
+body {
+  background-color: #EAF6F6;
+}
+
+.footer-link {
+  text-decoration: none;
+}
+
+.footer-link:hover {
+  color: white;
+}
+
+.job-title:hover {
+  color:gold;
+  text-decoration: underline;
+}
+
+
+
+
+
+
+
+
+footer {
+  text-align: center;
+  background-color: #A2DBFA;
+}
+
+.profile-pic {
+  border-radius: 50%;
+}
